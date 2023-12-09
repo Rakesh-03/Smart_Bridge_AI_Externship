@@ -1,6 +1,8 @@
 # AI_SmartBridge
 
 **Smart Bridge AI Externship**
+
+Link : https://rakesh-03.github.io/test/
 _________________________________
 
 **Assignments - 1**
